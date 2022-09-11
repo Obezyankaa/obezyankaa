@@ -12,7 +12,7 @@
 <h3 align="left">Контакты:</h3>
 <p align="left">
 <a href="https://instagram.com/obezyankaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="obezyankaaa" height="30" width="40" /></a>
-<a href="https://telegram/@Obezyankaaa" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-1024.png" alt="obezyankaaa" height="30" width="40" /></a>
+<a href="https://t.me/Obezyankaaa" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-1024.png" alt="obezyankaaa" height="30" width="40" /></a>
 </p>
 
 
