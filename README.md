@@ -1,4 +1,4 @@
-<h4> <img width="30px" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> Привет! Я - Влад, fullstack разработчик!</h4>
+<h3> <img width="30px" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> Привет! Я - Влад, fullstack разработчик!</h3>
 <h5>Увлеченный фронтенд-разработчик из России</h5>
 
 <hr>
