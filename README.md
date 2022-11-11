@@ -9,7 +9,7 @@
 
 - 😇 Нравится пробовать новые фичи 
 
-- 📫 Как связаться: **voloshanowky@yandex.ru**
+- 📫 Как связаться: **https://t.me/Obezyankaaa**
 <hr>
 <h3 align="left">Контакты:</h3>
 <p align="left" style="display: flex;
