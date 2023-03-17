@@ -5,5 +5,3 @@
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obezyankaa&layout=compact&theme=tokyonight)](https://github.com/Obezyankaa/github-readme-stats)
-
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Obezyankaa/obezyankaa/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/Obezyankaa/obezyankaaraw/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"></a></p>
