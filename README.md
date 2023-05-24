@@ -3,5 +3,3 @@
 <a href="https://instagram.com/obezyankaa?igshid=YmMyMTA2M2Y=" target="_blank"><img width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt"logo instagram"></a>
 </div>
 <hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obezyankaa&layout=compact&theme=tokyonight)](https://github.com/Obezyankaa/github-readme-stats)
