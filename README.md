@@ -12,6 +12,9 @@ I'm drawn to contributing to engaging projects that are used by everyday people.
 - **Backend:** Node.js, Express, Sequelize
 - **Database:** PostgreSQL, MongoDB
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obezyankaa&hide_progress=true&theme=radical)
+
+
 ### 🎨 UI/UX Design & Prototyping:
 - **Adobe Photoshop:** Image editing, graphic design
 - **Figma:** Interface design, prototyping, collaboration
