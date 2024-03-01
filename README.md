@@ -8,17 +8,13 @@
 I'm drawn to contributing to engaging projects that are used by everyday people. My goal is to make the functionality of websites as intuitive and simple as possible, while adding a unique twist to the design. I often find inspiration in the work of various studios and am delighted with the end results. 
 
 ### 💻 Tech Stack:
-- **Frontend:** JavaScript, React, TypeScript, Three.js, Redux, Vue, HTML, Sass, Jest
-- **Backend:** Node.js, Express, Sequelize
-- **Database:** PostgreSQL, MongoDB
+- **Frontend:** JavaScript, React, TypeScript, Vue, Next.
+- **Backend:** Node.js, Express, Sequelize.
+- **Database:** PostgreSQL, MongoDB.
 
 ### 🎨 UI/UX Design & Prototyping:
 - **Adobe Photoshop:** Image editing, graphic design
 - **Figma:** Interface design, prototyping, collaboration
-
-### 🚀 Projects:
-- **E-commerce Platforms:** Developed using Vue.
-- **Professional Blog:** A TypeScript-based platform sharing insights and tips.
 
 ### 🏁 Interests:
 - Watching Formula 1 races.
