@@ -17,6 +17,7 @@ I'm drawn to contributing to engaging projects that are used by everyday people.
 - [**MarksPro** ](http://marks-pro.ru/)
 - [**Mtg-agro** ](https://mtg-agro.ae/)
 - [**Cloud.agrohold** ](https://cloud.agrohold.ru/index.php/)
+- [**TechHaven** ](https://vue-store-seven.vercel.app/#/)
 
 
 ### 📬 Contact Me:
