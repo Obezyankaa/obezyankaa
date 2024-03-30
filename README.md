@@ -12,14 +12,12 @@ I'm drawn to contributing to engaging projects that are used by everyday people.
 - **Backend:** Node.js, Express, Sequelize.
 - **Database:** PostgreSQL, MongoDB.
 
-### 🎨 UI/UX Design & Prototyping:
-- **Adobe Photoshop:** Image editing, graphic design
-- **Figma:** Interface design, prototyping, collaboration
+### 💼 Portfolio: 
+- [**MarksSite** ](https://marksgroup.ru/)
+- [**MarksPro** ](http://marks-pro.ru/)
+- [**Mtg-agro** ](https://mtg-agro.ae/)
+- [**Cloud.agrohold** ](https://cloud.agrohold.ru/index.php/)
 
-### 🏁 Interests:
-- Watching Formula 1 races.
-- Enjoying drift racing events.
-- Exploring various topics on YouTube.
 
 ### 📬 Contact Me:
 - **Email:** [voloshanowky@yandex.ru](mailto:voloshanowky@yandex.ru)
