@@ -8,7 +8,7 @@
 I'm drawn to contributing to engaging projects that are used by everyday people. My goal is to make the functionality of websites as intuitive and simple as possible, while adding a unique twist to the design. I often find inspiration in the work of various studios and am delighted with the end results. 
 
 ### 💻 Tech Stack:
-- **Frontend:** JavaScript, React, TypeScript, Vue, Next.
+- **Frontend:** JavaScript, React, TypeScript, Next.
 - **Backend:** Node.js, Express, Sequelize.
 - **Database:** PostgreSQL, MongoDB.
 
@@ -21,7 +21,7 @@ I'm drawn to contributing to engaging projects that are used by everyday people.
 
 ### 📬 Contact Me:
 - **Email:** [voloshanowky@yandex.ru](mailto:voloshanowky@yandex.ru)
-- **Telegram:** [Voloshanovskiy_V](https://t.me/Voloshanovskiy_V)
+- **Telegram:** [vladislav_voloshanovskii](https://t.me/vladislav_voloshanovskii)
 - **Instagram:** [@obezyankaa](https://www.instagram.com/obezyankaa/)
 
 ---
