@@ -20,10 +20,8 @@ I'm drawn to contributing to engaging projects that are used by everyday people.
 
 
 ### 📬 Contact Me:
-- **Email:** [voloshanowky@yandex.ru](mailto:voloshanowky@yandex.ru)
 - **Telegram:** [vladislav_voloshanovskii](https://t.me/vladislav_voloshanovskii)
-- **Instagram:** [@obezyankaa](https://www.instagram.com/obezyankaa/)
-
+- **Email:** [voloshanowky@yandex.ru](mailto:voloshanowky@yandex.ru)
 ---
 
 *Let's socialize! Feel free to contact me for cooperation or just for a friendly chat.*
