@@ -1,5 +1,4 @@
-### Frontend Developer | Crafting Websites & Web Applications
-
+### Frontend Developer
 ---
 
 **Hello there!** <img width="30px" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> <br/> I'm Vlad, a passionate frontend developer with 3 years of experience. I specialize in building websites and web applications that are used by both individuals and companies. My expertise also extends to developing a couple of e-commerce platforms using Vue and a TypeScript.
