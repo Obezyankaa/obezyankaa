@@ -7,13 +7,10 @@
 - **Frontend:** JavaScript, React, TypeScript, Next, Vue.
 - **Backend:** Node.js, Express.
 - **Database:** PostgreSQL, MongoDB.
-
-### 💼 Portfolio: 
-- [**MarksSite** ](https://marksgroup.ru/)
-- [**Mtg-agro** ](https://mtg-agro.ae/)
-- [**Cloud.agrohold** ](https://cloud.agrohold.ru/index.php/)
-- [**TechHaven** ](https://vue-store-seven.vercel.app/#/)
-
+– **Frontend:** JavaScript, TypeScript, React, Redux, Zustand, SCSS, GSAP, Three.js, React Native, TON-библиотеки.
+– **Backend:** Node.js, Express, Sequelize, PostgreSQL.
+– **DevOps:** Ubuntu-server, settings NGINX, SSL, CI/CD..
+– **Инструменты:** Vite, VitePWA, Webpack, Storybook, Git, Docker.
 
 ### 📬 Contact Me:
 - **Telegram:** [vladislav_voloshanovskii](https://t.me/vladislav_voloshanovskii)
