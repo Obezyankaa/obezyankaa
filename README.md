@@ -5,9 +5,9 @@
 
 ### 💻 Tech Stack:
 – **Frontend:** JavaScript, TypeScript, React, Redux, Zustand, SCSS, GSAP, Three.js, React Native, TON-libraries.
-– **Backend:** Node.js, Express, Sequelize, PostgreSQL.
-– **DevOps:** Ubuntu-server, settings NGINX, SSL, CI/CD..
-– **Инструменты:** Vite, VitePWA, Webpack, Storybook, Git, Docker.
+<br/>– **Backend:** Node.js, Express, Sequelize, PostgreSQL.
+<br/>– **DevOps:** Ubuntu-server, settings NGINX, SSL, CI/CD..
+<br/>– **Инструменты:** Vite, VitePWA, Webpack, Storybook, Git, Docker.
 
 ### 📬 Contact Me:
 - **Telegram:** [vladislav_voloshanovskii](https://t.me/vladislav_voloshanovskii)
