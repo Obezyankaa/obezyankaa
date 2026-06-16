@@ -1,7 +1,7 @@
-### Frontend | Game Developer
+### FullStack | Game Developer
 ---
 ### 💻 Tech Stack:
-JavaScript, Three.js🤘, TypeScript, React, Vue, Next.js
+Three.js🤘 JavaScript, TypeScript, React, React-Native, Vue, Node.js
 
 ### 📬 Contact Me:
 - **Telegram:** [vladislav_voloshanovskii](https://t.me/vladislav_voloshanovskii)
